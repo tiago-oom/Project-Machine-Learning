@@ -1,0 +1,9 @@
+HistGradientBoostingClassifier(learning_rate=0.09, max_depth=6, max_iter=70,
+                               max_leaf_nodes=16, min_samples_leaf=100,
+                               warm_start=True)
+
+['GoogleAnalytics_PageValue', 'GoogleAnalytics_ExitRate', 'Product_Pages', 'AvgTimeOnAccountMng', 'PropPages_AccountMng', 'Traffic_13', 'Traffic_12', 'Traffic_8', 'Traffic_3', 'Traffic_2', 'Traffic_15', 'Apple', 'Windows', 'Returner', 'New_Access', 'Covid', 'Dec', 'Feb', 'May', 'Mar', 'Nov', 'Oct']
+
+MinMaxScaler()
+
+100

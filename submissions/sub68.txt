@@ -1,0 +1,12 @@
+HistGradientBoostingClassifier(learning_rate=0.06, max_leaf_nodes=20,
+                               min_samples_leaf=105, warm_start=True)
+
+['GoogleAnalytics_PageValue', 'Product_Pages', 'GoogleAnalytics_ExitRate', 'FAQ_Pages', 'AvgTimeOnAccountMng', 'AvgTimeOnProduct', 'PropPages_FAQ', 'Nov', 'Traffic_2', 'New_Access', 'Traffic_3', 'May', 'Traffic_13', 'Traffic_8', 'Mar', 'Apple', 'Feb']
+
+MinMaxScaler()
+
+4
+
+Value0.71974
+
+0.70621
